@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the CRF 3W Data feature.
+ */
+
+include_once 'crf_3w_data.features.inc';
