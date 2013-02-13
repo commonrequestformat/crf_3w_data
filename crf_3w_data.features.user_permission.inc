@@ -68,7 +68,6 @@ function crf_3w_data_user_default_permissions() {
     'name' => 'view any unpublished 3w_data content',
     'roles' => array(
       'administrator' => 'administrator',
-      'editor' => 'editor',
       'manager' => 'manager',
     ),
     'module' => 'view_unpublished',

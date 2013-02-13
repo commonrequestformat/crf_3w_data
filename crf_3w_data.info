@@ -16,7 +16,6 @@ dependencies[] = view_unpublished
 features[ctools][] = strongarm:strongarm:1
 features[features_api][] = api:1
 features[field][] = comment-comment_node_3w_data-comment_body
-features[field][] = node-3w_data-field_comments
 features[field][] = node-3w_data-field_file
 features[field][] = node-3w_data-field_nc_request
 features[node][] = 3w_data
